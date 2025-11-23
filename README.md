@@ -1,6 +1,7 @@
 # shizukuSU
 No needed port inputs.
 
-# how to get?
-go to Rels Pages.
-Esay
+# Download
+go to `Releases` pages.
+
+Easy!
